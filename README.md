@@ -1,5 +1,7 @@
 # Minesweeper
 
+Coded in Java:
+
 Welcome to our version of Minesweeper:
 
 ** Extra Credit: Restarting the game ***
